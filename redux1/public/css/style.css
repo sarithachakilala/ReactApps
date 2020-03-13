@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding:0;
+    font-family: 'Roboto';
+    color: #313131;
+}
+
+.title-div {
+    padding: 92px 0px 0px 0;
+}
+.title-div span {
+    background-color: aqua;
+    font-weight: bolder;
+    color: #ffffff;
+    height: 32px;
+    width: 46px;
+    display: inline-block;
+    padding: 5px 0;
+}
+.title {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+}
